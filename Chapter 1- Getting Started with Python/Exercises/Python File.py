@@ -38,3 +38,6 @@ ans = ((2*3/8+(23+5)))
 print ((ans))
 
 print ("My" , "Name" , "is" , "Reighn")
+
+name = int(input("Enter Name: "))
+print (name)
