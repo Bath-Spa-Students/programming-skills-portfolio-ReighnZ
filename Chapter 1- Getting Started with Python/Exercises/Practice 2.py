@@ -1,1 +1,1 @@
-print ("hi" * 50)
+print("hi" * 50)
