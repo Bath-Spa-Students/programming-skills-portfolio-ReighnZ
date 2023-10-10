@@ -1,5 +1,5 @@
 '''This code creates three different text strings and stores them in variables:
-tring_1 contains "Hello, ".
+string_1 contains "Hello, ".
 string_2 contains "Welcome to ".
 string_3 contains "Code Lab 1."
 
