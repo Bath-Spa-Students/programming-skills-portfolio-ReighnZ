@@ -1,4 +1,4 @@
-''' The code contains a list of names representing individuals, and it uses a loop to generate personalized messages for each person.
+''' This code contains a list of names representing individuals, and it uses a loop to generate personalized messages for each person.
 Each message begins with "Hello" and addresses the person by their name, then adds "Just wanted to say hi" to each message.
 The code prints these personalized messages for each individual in the list. '''
 
