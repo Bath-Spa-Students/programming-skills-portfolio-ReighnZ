@@ -20,7 +20,7 @@ else :
 
 percentage = float (input("Enter the calories of your item : "))
 if percentage >= 2000 :
-    print("Your item is too heavy of a meal.")
+    print("Your item is a very heavy meal.")
 elif percentage >= 1500 :
         print("Your item is a heavy meal")
 elif percentage >= 1000 :
