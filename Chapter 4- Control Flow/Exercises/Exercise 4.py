@@ -1,4 +1,4 @@
-''' This code determines a person's stage of life based on their age using an if-elif-else chain.
+''' This code determines a person's stage of life based on their age using an 'if-elif-else chain'.
 In this specific case, with an age of 20, it identifies the person as a teenager because the age falls within the range defined for that category.
 The code does not evaluate the remaining conditions once it finds a matching one. '''
 
