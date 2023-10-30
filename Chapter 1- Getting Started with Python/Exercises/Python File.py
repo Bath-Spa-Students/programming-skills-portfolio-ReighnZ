@@ -18,7 +18,7 @@ print (name)
 age = input ("Enter your age: ")
 print (age)
 
-'''Hi instead of using a lot of #
+'''Instead of using a lot of #
 use this to make multiple lines'''
 
 '''Python operator precedence:
