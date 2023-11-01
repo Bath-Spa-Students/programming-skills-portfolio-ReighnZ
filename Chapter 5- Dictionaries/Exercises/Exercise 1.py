@@ -4,7 +4,7 @@ This code serves as an example of using dictionaries to manage and display perso
 
 person_info = {
     "first_name": "Edward",
-    "last_name": "Winson",
+    "last_name": "Winston",
     "age": 20,
     "city": "Manchester"
 }
