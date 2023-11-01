@@ -7,7 +7,7 @@ programming_glossary = {
     "Function": "A named block of code that can be reused.",
     "If Statement": "Executes code conditionally.",
     "Loop": "Repeats a set of instructions.",
-    "List": "An ordered collection of items"
+    "List": "An ordered collection of items."
 }
 
 for word, meaning in programming_glossary.items():
