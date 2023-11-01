@@ -1,4 +1,4 @@
-''' This code defines a dictionary named 'programming_glossary' that stores programming terms and their meanings.
+''' This code defines a dictionary named programming_glossary that stores programming terms and their meanings.
 It then uses a for loop to iterate through the dictionary, printing each programming term followed by its definition.
 The code demonstrates the use of dictionaries to organize information and showcases how to display this information in an organized manner using a loop. '''
 
