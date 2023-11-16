@@ -1,5 +1,6 @@
 ''' This code creates a list of dictionaries, each representing a pet and its owner.
-The dictionaries store information about the type of animal ("kind") and the name of the owner ("owner"). The code then uses a for loop to iterate through the list, printing details about each pet, including its kind and the owner's name.
+The dictionaries store information about the type of animal ("kind") and the name of the owner ("owner").
+The code then uses a for loop to iterate through the list, printing details about each pet, including its kind and the owner's name.
 Information for each pet is separated by newline characters, ensuring a well-organized presentation of the data. '''
 
 pet1 = {"kind": "Dog", "owner": "Anthony"}
